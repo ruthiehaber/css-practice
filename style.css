@@ -1,6 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: gold;
+  
 }
 p {
   color: purple;
+  font-family: Helvetica;
+  text-decoration: line-through;
+}
+div {
+  
+  height: 100px;
+  width: 200px;
+  margin: 10px;
 }
