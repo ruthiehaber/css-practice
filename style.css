@@ -1,15 +1,10 @@
-body {
-  background-color: gold;
-  
+body { 
+  font-weight: bold;
+  background-color: gray;
 }
-p {
-  color: purple;
-  font-family: Helvetica;
-  text-decoration: line-through;
-}
-div {
-  
-  height: 100px;
-  width: 200px;
-  margin: 10px;
-}
+p { font-size: 19px;  
+color: hotpink;
+font-family: serif;
+font-style: italic;
+text-decoration: underline;
+} 
